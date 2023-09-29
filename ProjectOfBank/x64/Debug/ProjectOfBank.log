@@ -1,0 +1,19 @@
+﻿  ProjectOfBank.cpp
+C:\Users\nabil\source\repos\ProjectOfBank\ProjectOfBank\clsString.h(39,1): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\nabil\source\repos\ProjectOfBank\ProjectOfBank\clsString.h(44,1): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\nabil\source\repos\ProjectOfBank\ProjectOfBank\clsString.h(56,1): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\nabil\source\repos\ProjectOfBank\ProjectOfBank\clsString.h(193,1): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\nabil\source\repos\ProjectOfBank\ProjectOfBank\clsString.h(324,1): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\nabil\source\repos\ProjectOfBank\ProjectOfBank\clsString.h(372,1): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\nabil\source\repos\ProjectOfBank\ProjectOfBank\clsUtil.h(64,1): warning C4102: 'defualt': unreferenced label
+C:\Users\nabil\source\repos\ProjectOfBank\ProjectOfBank\clsUser.h(190,2): warning C4240: nonstandard extension used: access to 'clsUser::stLoginRegisterRecord' now defined to be 'public', previously it was defined to be 'private'
+C:\Users\nabil\source\repos\ProjectOfBank\ProjectOfBank\clsUser.h(40): message : see declaration of 'clsUser::stLoginRegisterRecord'
+C:\Users\nabil\source\repos\ProjectOfBank\ProjectOfBank\clsBankClient.h(184,2): warning C4240: nonstandard extension used: access to 'clsBankClient::stTransferLog' now defined to be 'public', previously it was defined to be 'private'
+C:\Users\nabil\source\repos\ProjectOfBank\ProjectOfBank\clsBankClient.h(32): message : see declaration of 'clsBankClient::stTransferLog'
+C:\Users\nabil\source\repos\ProjectOfBank\ProjectOfBank\clsClientListScreen.h(66,53): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\nabil\source\repos\ProjectOfBank\ProjectOfBank\clsTotalBalancesScreen.h(60,71): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\nabil\source\repos\ProjectOfBank\ProjectOfBank\clsTransferLogScreen.h(51,12): warning C4129: ' ': unrecognized character escape sequence
+C:\Users\nabil\source\repos\ProjectOfBank\ProjectOfBank\clsCurrency.h(33,88): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\nabil\source\repos\ProjectOfBank\ProjectOfBank\clsBankClient.h(344): warning C4715: 'clsBankClient::Save': not all control paths return a value
+C:\Users\nabil\source\repos\ProjectOfBank\ProjectOfBank\clsUser.h(345): warning C4715: 'clsUser::Save': not all control paths return a value
+  ProjectOfBank.vcxproj -> C:\Users\nabil\source\repos\ProjectOfBank\x64\Debug\ProjectOfBank.exe
